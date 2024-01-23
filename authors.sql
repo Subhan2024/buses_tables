@@ -1,0 +1,80 @@
+﻿CREATE TABLE [authors] 
+(
+    [id]	INT PRIMARY KEY,
+    [name]	VARCHAR(512),
+    [country]	VARCHAR(512),
+    [birth]	INT
+);
+
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('1', 'Adania Shibli', 'Palestine', '1974');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('2', 'Ahmed Saadawi', 'Iraq', '1973');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('3', 'Alia Trabucco Zerán', 'Chile', '1983');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('4', 'Amanda Svensson', 'Sweden', '1987');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('5', 'Andrey Kurkov', 'Ukraine', '1961');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('6', 'Andrzej Tichy', 'Sweden', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('7', 'Annie Ernaux', 'France', '1940');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('8', 'Antonio Muñoz Molina', 'Spain', '1956');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('9', 'Ariana Harwicz', 'Argentina', '1977');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('10', 'Benajamín Labatut', 'Chile', '1980');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('11', 'Bora Chung', 'South Korea', '1976');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('12', 'Can Xue', 'China', '1953');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('13', 'Cheon Myeong-Kwan', 'South Korea', '1964');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('14', 'Christoph Ransmayr', 'Austria', '1954');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('15', 'Claudia Piñeiro', 'Argentina', '1960');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('16', 'Clemens Meyer', 'Germany', '1977');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('17', 'Daniel Kehlmann', 'Germany', '1975');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('18', 'David Diop', 'France', '1966');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('19', 'David Grossman', 'Israel', '1954');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('20', 'Emmanuelle Pagano', 'France', '1969');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('21', 'Enrique Vila-Matas', 'Spain', '1948');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('22', 'Éric Vuillard', 'France', '1968');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('23', 'Eva Baltasar', 'Spain', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('24', 'Fernanda Melchor', 'Mexico', '1982');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('25', 'Gabriela Cabezón Cámara', 'Argentina', '1968');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('26', 'Gabriela Ybarra', 'Spain', '1983');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('27', 'Gauz', 'Republic of Côte d''Ivoire', '1971');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('28', 'Geentanjali Shree', 'India', '1957');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('29', 'Georgi Gospodinov', 'Bulgaria', '1968');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('30', 'Guadalupe Nettel', 'Mexico', '1973');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('31', 'Han Kang', 'South Korea', '1970');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('32', 'Hubert Mingarelli', 'France', '1956');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('33', 'Hwang Sok-yong', 'South Korea', '1943');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('34', 'Jaap Robben', 'Netherlands', '1984');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('35', 'Javier Cercas', 'Spain', '1962');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('36', 'Jenny Erpenbeck', 'Germany', '1967');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('37', 'Jokha Alharthi', 'Oman', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('38', 'Jon Fosse', 'Norway', '1959');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('39', 'Jonas Eika', 'Denmark', '1991');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('40', 'Juan Gabriel Vásquez', 'Colombia', '1973');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('41', 'Judith Schalansky', 'Germany', '1980');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('42', 'László Krasznahorkai', 'Hungary', '1954');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('43', 'Laurent Binet', 'France', '1972');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('44', 'Laurent Mauvignier', 'France', '1967');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('45', 'Maria Stepanova', 'Russia', '1972');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('46', 'Mariana Enríquez', 'Argentina', '1973');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('47', 'Marieke Lucas Rijneveld', 'Netherlands', '1991');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('48', 'Marion Poschmann', 'Germany', '1969');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('49', 'Maryse Condé', 'France', '1937');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('50', 'Mazen Maarouf', 'Lebanon', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('51', 'Michel Houellebecq', 'France', '1956');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('52', 'Mieko Kawakami', 'Japan', '1976');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('53', 'Nana Ekvtimishvili', 'Georgia', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('54', 'Ngũgĩ wa Thiong''o', 'Kenya', '1938');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('55', 'Nino Haratischvili', 'Georgia', '1983');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('56', 'Norman Erikson Pasaribu', 'Indonesia', '1990');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('57', 'Olga Ravn', 'Denmark', '1986');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('58', 'Olga Tokarczuk', 'Poland', '1962');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('59', 'Paulo Scott', 'Brazil', '1966');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('60', 'Perumal Murugan', 'India', '1966');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('61', 'Samanta Schweblin', 'Argentina', '1978');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('62', 'Sang Young Park', 'South Korea', '1988');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('63', 'Sara Stridsberg', 'Sweden', '1972');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('64', 'Shokoofeh Azar', 'Iran', '1972');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('65', 'Tommy Wieringa', 'Netherlands', '1967');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('66', 'Vigdis Hjorth', 'Norway', '1959');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('67', 'Violaine Huisman', 'France', '1979');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('68', 'Virginie Despentes', 'France', '1969');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('69', 'Willem Anker', 'South Africa', '1979');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('70', 'Wu Ming-Yi', 'Taiwan', '1971');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('71', 'Yōko Ogawa', 'Japan', '1962');
+INSERT INTO [authors] ([id], [name], [country], [birth]) VALUES ('72', 'Zou Jingzhi', 'China', '1952');
