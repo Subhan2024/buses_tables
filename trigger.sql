@@ -67,6 +67,7 @@ select origin , destination from rides;
 
 select * from rides_destination;
 
+select * from collections;
 
-alter table collections
-add deleted integer default
+
+
